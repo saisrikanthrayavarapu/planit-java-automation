@@ -5,4 +5,5 @@
 /.vscode/
 /gradle/
 /bin/
-/gradle/
+/gradle/*
+/.gradle/*
